@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0kj3hgueidbpb.css","style"]
+:HL["https://www.thekeyssaltscrub.com/wp-content/uploads/2018/03/keys-salt-scrub-logo1.png","image"]
+:HL["/images/products/coconut-travel.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"keys-coconut-salt-scrub","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0BqRz8949o2YLbi7ODFLu"}
