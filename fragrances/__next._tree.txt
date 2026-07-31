@@ -5,4 +5,4 @@
 :HL["/images/products/lavender-12oz.webp","image"]
 :HL["/images/products/mango-coconut-12oz.webp","image"]
 :HL["/images/products/plantation-pineapple-12oz.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"fragrances","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"X-JDalgGollsYUN7Jv9-J"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"fragrances","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"p7-D1hEe-CE_9e7rhYEKw"}

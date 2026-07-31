@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/2tc09p-yfttsp.css","style"]
 :HL["https://www.thekeyssaltscrub.com/wp-content/uploads/2018/03/keys-salt-scrub-logo1.png","image"]
 :HL["/images/products/lavender-12oz.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lavender-salt-scrub","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"X-JDalgGollsYUN7Jv9-J"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"product","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lavender-salt-scrub","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"p7-D1hEe-CE_9e7rhYEKw"}
