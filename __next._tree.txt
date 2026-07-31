@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/375v_4-hhe8w-.css","style"]
+:HL["/_next/static/chunks/2tc09p-yfttsp.css","style"]
 :HL["https://www.thekeyssaltscrub.com/wp-content/uploads/2018/03/keys-salt-scrub-logo1.png","image"]
 :HL["/images/lifestyle/salt-scrub-texture.jpg","image"]
 :HL["/images/products/key-lime-travel.webp","image"]
@@ -11,4 +11,4 @@
 :HL["/images/affiliates/marathon-chamber.webp","image"]
 :HL["/images/affiliates/lower-keys-chamber.webp","image"]
 :HL["/images/affiliates/key-west-business-guild.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Lq2ZO7A8eRhnC2QFuwVBJ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"X-JDalgGollsYUN7Jv9-J"}
